@@ -1,0 +1,15 @@
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.csproj.AssemblyReference.cache
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.AssemblyInfoInputs.cache
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.AssemblyInfo.cs
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.csproj.CoreCompileInputs.cache
+C:\Users\shado\Desktop\OneLineTool\bin\Debug\net7.0\OneLineTool.exe
+C:\Users\shado\Desktop\OneLineTool\bin\Debug\net7.0\OneLineTool.deps.json
+C:\Users\shado\Desktop\OneLineTool\bin\Debug\net7.0\OneLineTool.runtimeconfig.json
+C:\Users\shado\Desktop\OneLineTool\bin\Debug\net7.0\OneLineTool.dll
+C:\Users\shado\Desktop\OneLineTool\bin\Debug\net7.0\OneLineTool.pdb
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.dll
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\refint\OneLineTool.dll
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.pdb
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\OneLineTool.genruntimeconfig.cache
+C:\Users\shado\Desktop\OneLineTool\obj\Debug\net7.0\ref\OneLineTool.dll
